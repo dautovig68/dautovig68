@@ -6,7 +6,7 @@
 
 
 -  I live in Tatarstan, Kazan.
-- 🌱 I’m currently learning **QA Engineer**
+- 🌱 I’m currently learning **QA**
 
 
 
